@@ -198,13 +198,13 @@ Make sure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Chat_Application_Backend.git
+git clone https://github.com/ajinkya029/chat-application-backend.git
 ```
 
 Navigate into the project:
 
 ```bash
-cd Chat_Application_Backend
+cd chat-application-backend
 ```
 
 Install dependencies:
